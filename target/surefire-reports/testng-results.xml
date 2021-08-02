@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-29T14:57:14 IST" name="Surefire suite" finished-at="2021-07-29T14:57:14 IST" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2021-07-29T14:57:14 IST" name="Surefire test" finished-at="2021-07-29T14:57:14 IST" duration-ms="26">
+      <class name="mvntraining.mvnjava.AppiumTest">
+        <test-method signature="Iosapp()[pri:0, instance:mvntraining.mvnjava.AppiumTest@1a38c59b]" started-at="2021-07-29T14:57:14 IST" name="Iosapp" finished-at="2021-07-29T14:57:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iosapp -->
+        <test-method signature="NativeappAndroid()[pri:0, instance:mvntraining.mvnjava.AppiumTest@1a38c59b]" started-at="2021-07-29T14:57:14 IST" name="NativeappAndroid" finished-at="2021-07-29T14:57:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeappAndroid -->
+      </class> <!-- mvntraining.mvnjava.AppiumTest -->
+      <class name="mvntraining.mvnjava.RESTAPITest">
+        <test-method signature="delettwitter()[pri:0, instance:mvntraining.mvnjava.RESTAPITest@525f1e4e]" started-at="2021-07-29T14:57:14 IST" name="delettwitter" finished-at="2021-07-29T14:57:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delettwitter -->
+        <test-method signature="postjira()[pri:0, instance:mvntraining.mvnjava.RESTAPITest@525f1e4e]" started-at="2021-07-29T14:57:14 IST" name="postjira" finished-at="2021-07-29T14:57:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- mvntraining.mvnjava.RESTAPITest -->
+      <class name="mvntraining.mvnjava.SeleniumTest">
+        <test-method signature="elementsui()[pri:0, instance:mvntraining.mvnjava.SeleniumTest@75f9eccc]" started-at="2021-07-29T14:57:14 IST" name="elementsui" finished-at="2021-07-29T14:57:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+        <test-method signature="BrowserAutomation()[pri:0, instance:mvntraining.mvnjava.SeleniumTest@75f9eccc]" started-at="2021-07-29T14:57:14 IST" name="BrowserAutomation" finished-at="2021-07-29T14:57:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- mvntraining.mvnjava.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
